@@ -19,8 +19,8 @@
       <!-- Elements for adjusting the date of the month to be shown -->
       <div id="Selector">
         <select id="monthSelector">
-          <option value="0">Januar</option>
-          <option value="1">Februar</option>
+          <option value="0">January</option>
+          <option value="1">February</option>
           <option value="2">March</option>
           <option value="3">April</option>
           <option value="4">May</option>
